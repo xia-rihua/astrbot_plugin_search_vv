@@ -1,8 +1,13 @@
-# helloworld
+# search_vv
 
-AstrBot 插件模板
+目前是vv表情搜索插件，本人课余时间有限，会慢慢更新
+下一步计划是引入LLM，实现类似:
+--/vv 如何评价米国
+--[图片] (日益成为国际笑话)
 
-A template plugin for AstrBot plugin feature
+# 灵感来源
+
+https://github.com/DanielZhangyc/VVQuest
 
 # 支持
 
